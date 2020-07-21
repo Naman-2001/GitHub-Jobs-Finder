@@ -36,9 +36,8 @@ function App() {
         </h1>
       </div>
 
-      {!loading && (
-        <SearchForm params={params} onParamChange={handleParamChange} />
-      )}
+      <SearchForm params={params} onParamChange={handleParamChange} />
+
       {!loading && (
         <JobsPagination
           page={page}
