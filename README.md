@@ -1,8 +1,10 @@
 This GitHub Jobs Finder app displays 50 jobs in 1 go.<br/>
 You can also find yourself a suitable job with the filters of description and location.
 
-** API **: Github-Jobs API
-** Axios **: npm package used to fetch elements from API
+**API**:
+ Github-Jobs API <br/>
+**Axios**: 
+ npm package used to fetch elements from API <br/>
 
 ## Preview
 
